@@ -6,8 +6,8 @@ package com.ifreeky.algorithm.linked;
  */
 public class Node<E> {
 
-    E data;
-    Node<E> next;
+    public E data;
+    public Node<E> next;
 
     public Node(E data) {
         this.data = data;
