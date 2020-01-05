@@ -6,7 +6,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * @author teng.dang
+ * @author ifreeky
  * @since 02 一月 2020
  */
 public class ReverseLinkedNodeTest {
