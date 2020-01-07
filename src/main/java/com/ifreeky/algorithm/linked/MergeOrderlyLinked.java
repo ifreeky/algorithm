@@ -7,6 +7,7 @@ import java.util.Objects;
  * 思路：
  * 这个题还是比较简单的，因为是两个有序链表，所以只需要比较大小，往新链表插入即可。
  * 当有一个不为空时，直接挂到新链表的尾部即可。
+ * @source https://leetcode-cn.com/problems/merge-two-sorted-lists/
  * @author ifreeky
  * @since 05 一月 2020
  */
